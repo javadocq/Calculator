@@ -1,0 +1,31 @@
+body {
+    background-color: rgb(24, 23, 25);
+}
+
+.outline {
+    background-color: white;
+    border : 1px solid black;
+    width: 380px;
+    height: 450px;
+    padding-top: 40px;
+    margin-left: 35%;
+    margin-top : 10%;
+}
+
+.screen-row {
+    display: flex;
+    justify-content: center;
+}
+
+.button-row {
+    display: flex;
+    justify-content: center;
+    
+}
+
+.button-row button {
+    background-color: aliceblue;
+    height: 75px;
+    width: 75px;
+}
+

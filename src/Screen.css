@@ -1,0 +1,6 @@
+.screen {
+    border: 1px solid black;
+    width: 298px;
+    height: 100px;
+    background-color: rgb(163, 176, 185);
+}
