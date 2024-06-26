@@ -1,5 +1,10 @@
 body {
     background-color: rgb(24, 23, 25);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
 }
 
 .outline {
@@ -8,8 +13,6 @@ body {
     width: 380px;
     height: 450px;
     padding-top: 40px;
-    margin-left: 35%;
-    margin-top : 10%;
 }
 
 .screen-row {
@@ -28,4 +31,3 @@ body {
     height: 75px;
     width: 75px;
 }
-
